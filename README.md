@@ -4,7 +4,7 @@ Public artifacts for Sunflower project.
 ## Directory Listing
 - `/simulations/`
 	- `connection-time/connection_time.m`: Computes percentage of hit/miss given a diverging laser beam and water wave
-	- `fsk/fsk_demodulation.m`: Encoding/decoding of FSK with Sycn Frames 
+	- `fsk/fsk_demodulation.m`: Encoding/decoding of FSK with sync frequency 
 	- `mems-scanning/mems_scanning.m`: MEMS mirror scanning trajectories
 	- `param-tuning/param_tuning.m`: Parameter tuning for optimizing sensing distance
 	- `scanning-pattern/scanning_pattern.m`: Modified Archimedean spiral simulator
